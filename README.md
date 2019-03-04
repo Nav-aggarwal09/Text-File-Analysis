@@ -1,2 +1,7 @@
 # Text-File-Analysis
-This parses a text file and gives an analysis on it
+
+## What it is
+This script parses a text file and gives statistics on the file's words. 
+
+
+## How it works
